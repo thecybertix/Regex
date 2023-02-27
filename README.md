@@ -1,4 +1,4 @@
-# Bur-Cloudflare Regex
+# Burp-Cloudflare Regex
 ```
 Type: Request Header
 Match: ^User-Agent.*$
